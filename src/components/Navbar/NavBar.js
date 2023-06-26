@@ -24,7 +24,10 @@ const NavBar = () => {
             <div className="flex flex-row justify-between items-center py-2">
                 <div className="flex flex-row justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
                     <Link to="/"><h1 className="font-extrabold text-4xl text-green-900">Everly Technolgies</h1></Link>
-                    
+                    {/* <Link to="/">
+                        <img alt="card img" className="rounded-t logo duration-1000" src='images/logo.jpeg' />
+                    </Link> */}
+
                 </div>
                 <div className="group flex flex-col items-center">
                     <button className="p-2 rounded-lg lg:hidden text-green-900" onClick={handleClick}>
