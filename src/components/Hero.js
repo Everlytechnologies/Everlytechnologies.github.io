@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import NavBar from '../components/Navbar/NavBar';
-import heroImg from '../images/web-dev.svg';
 
 const Hero = () => {
     return (
@@ -15,7 +14,7 @@ const Hero = () => {
 
                     <div className="flex flex-col lg:flex-row py-8 justify-between text-center lg:text-left">
                         <div className="lg:w-1/2 flex flex-col justify-center" data-aos="zoom-in" data-aos-delay="200">
-                            <h1 className="mb-5 md:text-5xl text-3xl font-bold text-blue-900">
+                            <h1 className="mb-5 md:text-5xl text-3xl font-bold text-green-900">
                             {/* We build digital solutions to help businesses scale */}
                                 Customized software solutions tailored to meet the distinctive requirements of your business
                             </h1>
@@ -36,7 +35,7 @@ const Hero = () => {
                             </div>
                         </div>
                         <div className="flex lg:justify-end w-full lg:w-1/2" data-aos="fade-up" data-aos-delay="700">
-                            <img alt="card img" className="rounded-t float-right duration-1000 w-full" src={heroImg} />
+                            <img alt="card img" className="rounded-t float-right duration-1000 w-full" src='images/1/4.jpg' />
                         </div>
                     </div>
                 </div>
