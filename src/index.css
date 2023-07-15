@@ -43,3 +43,18 @@ input[type=number] {
   width: 50px;
   height: 100px;
 }
+
+#root{
+  background-color: black;
+}
+
+#services{
+  background: black;
+  color: white;
+}
+.brand-text{
+  color: white;
+}
+.bg-white .brand-text{
+  color:black
+}

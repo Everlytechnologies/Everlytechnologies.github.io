@@ -25,41 +25,41 @@ const Footer = () => {
 
                     {/* 2nd block */}
                     <div className="col-span-6 md:col-span-6 lg:col-span-1 ml-7 mx-auto">
-                        <h6 className="text-[#013929] text-xl font-bold mb-4">LINKS</h6>
+                        <h6 className="text-white text-xl font-bold mb-4">LINKS</h6>
                         <ul className="text-md">
                         <li className="mb-2">
-                            <HashLink to="#" className="text-[#013929] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">About</HashLink>
+                            <HashLink to="#" className="text-white hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">About</HashLink>
                         </li>
                         <li className="mb-2">
-                            <HashLink to="#" className="text-[#013929] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Services</HashLink>
+                            <HashLink to="#" className="text-white hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Services</HashLink>
                         </li>
                         <li className="mb-2">
-                            <HashLink to="#" className="text-[#013929] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Contact</HashLink>
+                            <HashLink to="#" className="text-white hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Contact</HashLink>
                         </li>                            
                         </ul>
                     </div>
 
                     {/* 3rd block */}
                     <div className="col-span-6 md:col-span-6 lg:col-span-4 mx-auto">
-                        <h6 className="text-[#013929] text-xl font-bold mb-4">OUR SERVICES</h6>
+                        <h6 className="text-white text-xl font-bold mb-4">OUR SERVICES</h6>
                         <ul className="text-md">
                         <li className="mb-2">
-                            <Link to="#" className="text-[#013929] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Web Development</Link>
+                            <Link to="#" className="text-white hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Web Development</Link>
                         </li>
                         <li className="mb-2">
-                            <Link to="#" className="text-[#013929] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Mobile App Development</Link>
+                            <Link to="#" className="text-white hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Mobile App Development</Link>
                         </li>
                         <li className="mb-2">
-                            <Link to="#" className="text-[#013929] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Domain and Hosting</Link>
+                            <Link to="#" className="text-white hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Domain and Hosting</Link>
                         </li>
                         <li className="mb-2">
-                            <Link to="#" className="text-[#013929] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">General IT Consultations</Link>
+                            <Link to="#" className="text-white hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">General IT Consultations</Link>
                         </li>
                         </ul>
                     </div>
 
                     {/* 4th block */}
-                    <div className="col-span-12 text-center mx-auto lg:col-span-3 font-bold uppercase text-green-900">
+                    <div className="col-span-12 text-center mx-auto lg:col-span-3 font-bold uppercase text-white">
                         <div className="text-xl mb-6">
                             Social Media Links.
                         </div>
