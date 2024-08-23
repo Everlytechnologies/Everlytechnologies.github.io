@@ -36,6 +36,9 @@ const Clients = () => {
                         <div style={clientImage} className="overflow-hidden p-3 flex justify-center transition-all ease-in-out opacity-50 hover:opacity-100">
                             <img src='https://s3-symbol-logo.tradingview.com/gpc--600.png' alt="client" />                            
                         </div>
+                        <div style={clientImage} className="overflow-hidden p-3 flex justify-center transition-all ease-in-out opacity-50 hover:opacity-100">
+                            <img src='https://www.eteaminc.com/secure/wp-content/uploads/2023/11/eTeam-Logo-hd.png' alt="client" />                            
+                        </div>
 
                                            
                     </div>
